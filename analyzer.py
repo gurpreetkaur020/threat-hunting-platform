@@ -7,7 +7,7 @@ Parses a Linux SSH auth.log file and flags suspicious activity:
   - Invalid usernames being tried (common attack indicator)
   - IPs that failed many times then succeeded (possible compromised credential)
 
-Author: [Your Name]
+Author: Gurpreet kaur
 Purpose: Educational project - BCA Cyber Security & Cloud Computing, Chandigarh University
 
 Usage:
